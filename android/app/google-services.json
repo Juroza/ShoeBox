@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212482763761",
+    "firebase_url": "https://shoebox-676c0.firebaseio.com",
+    "project_id": "shoebox-676c0",
+    "storage_bucket": "shoebox-676c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212482763761:android:21f27a83b3541297d2b250",
+        "android_client_info": {
+          "package_name": "com.shoeboxdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212482763761-mruajr7ubsvc6s4kbr0et4g8vi97shmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmjMorqdqtVSwUEhA73-ODLtuRTqVKxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212482763761-mruajr7ubsvc6s4kbr0et4g8vi97shmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
